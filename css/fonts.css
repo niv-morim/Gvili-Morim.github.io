@@ -27,3 +27,15 @@
 	font-family:Lexend;
 	src:url('../vendor/font/Inconsolata-VariableFont_wdth,wght.ttf');
 }
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+html {
+    direction: rtl;
+    text-align: right;
+}
+.owl-carousel {
+    direction: ltr;
+}
